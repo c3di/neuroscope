@@ -10,7 +10,7 @@ are processable, with an interface allowing extension to additional frameworks. 
 explanation abilities provided by Neuroscope using the example of traffic scene analysis.
 
 # Release
-[Neuroscope 1.1](https://github.com/c3di/neuroscope/releases)
+[Neuroscope 1.0](https://github.com/c3di/neuroscope/releases)
 
 # Cite
 If you use this code for your research, please cite as:
