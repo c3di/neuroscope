@@ -1,0 +1,33 @@
+# Pylint is architectured around several checkers.
+# you can disable a specific checker or some of its messages or messages categories
+# by specifying --disable=<symbol>
+
+[MESSAGES CONTROL]
+disable =
+  missing-docstring,
+  global-statement,
+  too-few-public-methods,
+  too-many-public-methods,
+  no-name-in-module,
+  c-extension-no-member,
+  import-error,
+  useless-super-delegation,
+  no-self-use,
+  too-many-locals,
+  max-parents,
+  broad-except,
+  unnecessary-pass
+
+
+[FORMAT]
+  max-line-length = 100
+
+[SIMILARITIES]
+  min-similarity-lines = 10
+
+[DESIGN]
+  max-attributes = 20
+  max-statements = 30
+  max-args = 6
+  max-branches = 6
+  max-bool-expr = 4

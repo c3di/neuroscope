@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg34" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="architecture_style.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 260"
+	 style="enable-background:new 0 0 100 260;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F4EEEB;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#DAC2B7;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#9DDDFF;fill-opacity:0.9412;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#61A7CE;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#98BEC8;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#69A1AF;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#989BC8;}
+	.st7{opacity:0.5;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;enable-background:new    ;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#696DAF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#9DDFFF;fill-opacity:0.9412;}
+	
+		.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.502;stroke:#D11414;stroke-linejoin:round;stroke-opacity:0.9852;stroke-dasharray:2,1;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#DDC325;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFC86;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#AC9C3C;}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#EAD34A;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#6F7C91;}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#B0B0B0;}
+	
+		.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#CCCCCC;stroke:#484C9D;stroke-width:1.026;stroke-linecap:round;stroke-opacity:0;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#8C8C8C;}
+	
+		.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#B3B3B3;stroke:#484C9D;stroke-width:1.026;stroke-linecap:round;stroke-opacity:0;}
+	
+		.st20{fill-rule:evenodd;clip-rule:evenodd;fill:#CCCCCC;stroke:#484C9D;stroke-width:0.8885;stroke-linecap:round;stroke-opacity:0;}
+	.st21{fill-rule:evenodd;clip-rule:evenodd;fill:#CCCCCC;}
+	
+		.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#B3B3B3;stroke:#484C9D;stroke-width:0.8885;stroke-linecap:round;stroke-opacity:0;}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#B3B3B3;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="26" guidetolerance="10" id="namedview36" inkscape:current-layer="layer1" inkscape:cx="63.641766" inkscape:cy="-47.216134" inkscape:guide-bbox="true" inkscape:lockguides="false" inkscape:measure-end="0,0" inkscape:measure-start="0,0" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:window-height="1137" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="6.7198854" objecttolerance="10" pagecolor="#6a6a6a" showgrid="true" showguides="true">
+	<inkscape:grid  dotted="true" id="grid816" snapvisiblegridlinesonly="false" type="xygrid"></inkscape:grid>
+	<sodipodi:guide  id="guide824" inkscape:locked="false" orientation="0,1" position="48,215"></sodipodi:guide>
+	<sodipodi:guide  id="guide826" inkscape:locked="false" orientation="0,1" position="48,210"></sodipodi:guide>
+	<sodipodi:guide  id="guide828" inkscape:locked="false" orientation="1,0" position="15,51"></sodipodi:guide>
+	<sodipodi:guide  id="guide830" inkscape:locked="false" orientation="1,0" position="85,232"></sodipodi:guide>
+	<sodipodi:guide  id="guide901" inkscape:locked="false" orientation="0,1" position="103,155"></sodipodi:guide>
+</sodipodi:namedview>
+<title  id="title26">my vector image</title>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 0">
+</g>
+<path id="InputLayer" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" class="st0" d="M25,8l25-3l25,4l20,3v18H5V11
+	L25,8z"/>
+<path id="InputLayer_selected" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" class="st1" d="M125,9l25-4l25,4
+	l20,3v18.7h-90V12L125,9z"/>
+<path id="MaxPooling2D" inkscape:connector-curvature="0" inkscape:label="#rect819" sodipodi:nodetypes="ccccc" class="st2" d="
+	M5,65h90L85,90H15L5,65z"/>
+<path id="MaxPooling2D_selected" inkscape:connector-curvature="0" inkscape:label="#path863" sodipodi:nodetypes="ccccc" class="st3" d="
+	M105,65h90l-10,25h-70L105,65z"/>
+<path id="Flatten" inkscape:connector-curvature="0" inkscape:label="#rect897" sodipodi:nodetypes="ccccccccc" class="st4" d="
+	M15,125h70v5l10,5v15H5v-15l10-5V125z"/>
+<path id="Flatten_selected" inkscape:connector-curvature="0" inkscape:label="#path904" sodipodi:nodetypes="ccccccccc" class="st5" d="
+	M115,125h70v5l10,5v15h-90v-15l10-5V125z"/>
+<g id="ZeroPadding2D" inkscape:label="#g874">
+	<rect id="rect12" x="5" y="185" inkscape:label="#rect830" class="st6" width="90" height="25">
+	</rect>
+	<rect id="rect833" x="5" y="185" class="st7" width="15" height="25"/>
+	<rect id="rect835" x="80" y="185" class="st7" width="15" height="25"/>
+</g>
+<g id="ZeroPadding2D_selected" transform="translate(0,30)" inkscape:label="#g870">
+	<rect id="rect856" x="105" y="155" inkscape:label="#rect830" class="st8" width="90" height="25">
+	</rect>
+	<rect id="rect858" x="105" y="155" class="st7" width="15" height="25"/>
+	<rect id="rect860" x="180" y="155" class="st7" width="15" height="25"/>
+</g>
+<g id="BatchNormalization" transform="translate(0,30)" inkscape:label="#g906">
+	<path id="rect878" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" class="st6" d="M15,185h70l10,10.1v4.7L85,210
+		H15l-10-9.9v-5.2L15,185z"/>
+	<rect id="rect880" x="15" y="185" class="st7" width="5" height="25"/>
+	<rect id="rect882" x="80" y="185" class="st7" width="5" height="25"/>
+</g>
+<g id="BatchNormalization_selected" transform="translate(0,30)" inkscape:label="#g937">
+	<path id="path912" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccc" class="st8" d="M115,185h70l10,10.1v4.7
+		L185,210h-70l-10-9.9v-5.2L115,185z"/>
+	<rect id="rect914" x="115" y="185" class="st7" width="5" height="25"/>
+	<rect id="rect916" x="180" y="185" class="st7" width="5" height="25"/>
+</g>
+<rect id="rect922" x="223" y="193" class="st7" width="15" height="25"/>
+<rect id="rect924" x="298" y="163" class="st7" width="15" height="25"/>
+<path id="AveragePooling2D" inkscape:connector-curvature="0" inkscape:label="#rect819" sodipodi:nodetypes="ccccc" class="st9" d="
+	M5,95h90l-10,25H15L5,95z"/>
+<path id="AveragePooling2D_selected" inkscape:connector-curvature="0" inkscape:label="#path863" sodipodi:nodetypes="ccccc" class="st3" d="
+	M105,95h90l-10,25h-70L105,95z"/>
+<rect id="Cursor" y="-40" inkscape:label="#rect830" class="st10" width="100" height="35">
+</rect>
+<g id="Conv2D" inkscape:connector-curvature="0" inkscape:label="#rect821" sodipodi:nodetypes="cccccccc">
+	<path id="Conv2D-6" inkscape:connector-curvature="0" inkscape:label="#rect821" sodipodi:nodetypes="cccccccc" class="st11" d="
+		M5,33h76h10v21H81H11H5V33z"/>
+	<path id="path6051" inkscape:connector-curvature="0" inkscape:label="#rect821" sodipodi:nodetypes="cccccccc" class="st12" d="
+		M9,38h76h10v22H85H15H9V38z"/>
+</g>
+<g id="Conv2D_selected" transform="translate(100)" inkscape:connector-curvature="0" inkscape:label="#path832" sodipodi:nodetypes="cccccccc">
+	<path id="path6053" inkscape:connector-curvature="0" inkscape:label="#rect821" sodipodi:nodetypes="cccccccc" class="st13" d="
+		M5,33h76h10v21H81H11H5V33z"/>
+	<path id="path6055" inkscape:connector-curvature="0" inkscape:label="#rect821" sodipodi:nodetypes="cccccccc" class="st14" d="
+		M9,38h76h10v22H85H15H9V38z"/>
+</g>
+<g id="Dense" inkscape:label="#rect818">
+	<rect id="rect6185" x="5" y="155" inkscape:label="#rect818" class="st4" width="90" height="25">
+	</rect>
+	<rect id="rect835-6" x="80" y="155" class="st7" width="15" height="25"/>
+	<rect id="rect6105" x="80" y="158" class="st4" width="10" height="1"/>
+	<rect id="rect6105-9" x="80" y="164" class="st4" width="10" height="1"/>
+	<rect id="rect6105-7" x="80" y="170" class="st4" width="10" height="1"/>
+	<rect id="rect6105-8" x="80" y="176" class="st4" width="10" height="1"/>
+	<circle id="path6076" class="st4" cx="91.4" cy="158.5" r="2"/>
+	<circle id="path6076-9" class="st4" cx="91.4" cy="164.5" r="2"/>
+	<circle id="path6076-7" class="st4" cx="91.4" cy="170.5" r="2"/>
+	<circle id="path6076-5" class="st4" cx="91.4" cy="176.5" r="2"/>
+</g>
+<g id="Dense_selected" inkscape:label="#rect818">
+	<rect id="rect6199" x="105" y="155" inkscape:label="#rect818" class="st5" width="90" height="25">
+	</rect>
+	<rect id="rect835-6-2" x="180" y="155" class="st7" width="15" height="25"/>
+	<rect id="rect6105-0" x="180" y="158" class="st5" width="10" height="1"/>
+	<rect id="rect6105-9-2" x="180" y="164" class="st5" width="10" height="1"/>
+	<rect id="rect6105-7-1" x="180" y="170" class="st5" width="10" height="1"/>
+	<rect id="rect6105-8-1" x="180" y="176" class="st5" width="10" height="1"/>
+	<circle id="path6076-70" class="st15" cx="191.4" cy="158.5" r="2"/>
+	<circle id="path6076-9-4" class="st15" cx="191.4" cy="164.5" r="2"/>
+	<circle id="path6076-7-4" class="st15" cx="191.4" cy="170.5" r="2"/>
+	<circle id="path6076-5-8" class="st15" cx="191.4" cy="176.5" r="2"/>
+</g>
+<g id="Add" inkscape:label="#rect830">
+	<rect id="rect6225" x="5" y="245" inkscape:label="#rect830" class="st16" width="90" height="25">
+	</rect>
+	<rect id="rect6203" x="46" y="247" class="st17" width="8" height="20"/>
+	<rect id="rect6203-0" x="40" y="253" class="st17" width="20" height="8"/>
+</g>
+<g id="Add_selected" inkscape:label="#rect830">
+	<rect id="rect6262" x="105" y="245" inkscape:label="#rect830" class="st18" width="90" height="25">
+	</rect>
+	<rect id="rect6203-7" x="145" y="247" class="st19" width="8" height="20"/>
+	<rect id="rect6203-0-0" x="139" y="253" class="st19" width="20" height="8"/>
+</g>
+<g id="Activation" inkscape:label="#rect830">
+	<rect id="rect994" x="5" y="275" inkscape:label="#rect830" class="st16" width="90" height="25">
+	</rect>
+	<rect id="rect6203-3" x="46" y="282" class="st20" width="8" height="15"/>
+	
+		<path id="path922" inkscape:flatsided="false" inkscape:randomized="0" inkscape:rounded="0" inkscape:transform-center-x="-0.084936491" inkscape:transform-center-y="-1.3301867" sodipodi:arg1="0.5070985" sodipodi:arg2="1.5542961" sodipodi:cx="51" sodipodi:cy="282" sodipodi:r1="10.29563" sodipodi:r2="5.1478152" sodipodi:sides="3" sodipodi:type="star" class="st21" d="
+		M59.2,285.1l-8.9,0.1l-8.9,0.1l4.3-4.1L50,277l4.6,4.1L59.2,285.1z"/>
+</g>
+<g id="Activation_selected" inkscape:label="#rect830">
+	<rect id="rect996" x="105" y="275" inkscape:label="#rect830" class="st18" width="90" height="25">
+	</rect>
+	<rect id="rect6203-3-3" x="146" y="282" class="st22" width="8" height="15"/>
+	
+		<path id="path922-6" inkscape:flatsided="false" inkscape:randomized="0" inkscape:rounded="0" inkscape:transform-center-x="-0.084936491" inkscape:transform-center-y="-1.3301867" sodipodi:arg1="0.5070985" sodipodi:arg2="1.5542961" sodipodi:cx="51" sodipodi:cy="282" sodipodi:r1="10.29563" sodipodi:r2="5.1478152" sodipodi:sides="3" sodipodi:type="star" class="st23" d="
+		M159.2,285.1l-8.9,0.1l-8.9,0.1l4.3-4.1l4.3-4.1l4.6,4.1L159.2,285.1z"/>
+</g>
+<path id="Concatenate" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" class="st16" d="M5,305l10,4l36-4l34,4l10-4
+	v25H5V305z"/>
+<path id="Concatenate_selected" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" class="st18" d="M105,305l10,4
+	l35-4l35,4l10-4v25h-90V305z"/>
+<g id="Default" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect994-7" x="5" y="275" inkscape:label="#rect830" class="st16" width="90" height="25">
+	</rect>
+</g>
+<g id="Default_selected" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect996-4" x="105" y="275" inkscape:label="#rect830" class="st18" width="90" height="25">
+	</rect>
+</g>
+<g id="Reshape" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect994-7_2_" x="5" y="341.1" inkscape:label="#rect830" class="st16" width="90" height="25">
+	</rect>
+</g>
+<g id="Reshape_selected" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect996-4_2_" x="105" y="341.1" inkscape:label="#rect830" class="st18" width="90" height="25">
+	</rect>
+</g>
+<g id="Relu" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect994-7_1_" x="5" y="305" inkscape:label="#rect830" class="st16" width="90" height="25">
+	</rect>
+	<rect x="37.5" y="325" class="st21" width="25.6" height="1.4"/>
+	
+		<rect x="56.8" y="316.2" transform="matrix(0.4412 -0.8974 0.8974 0.4412 -246.9013 237.2198)" class="st21" width="20.5" height="1.4"/>
+</g>
+<g id="Relu_selected" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect996-4_1_" x="105" y="305" inkscape:label="#rect830" class="st18" width="90" height="25">
+	</rect>
+	<rect x="135.2" y="325" class="st21" width="25.6" height="1.4"/>
+	
+		<rect x="154.6" y="316.1" transform="matrix(0.4412 -0.8974 0.8974 0.4412 -192.2024 324.9813)" class="st21" width="20.5" height="1.4"/>
+</g>
+<g id="Dropout" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect994-7_3_" x="5" y="374.5" inkscape:label="#rect830" class="st16" width="90" height="25">
+	</rect>
+	
+		<rect x="38.5" y="386.3" transform="matrix(0.6352 -0.7723 0.7723 0.6352 -280.1983 180.7607)" class="st21" width="25.6" height="1.4"/>
+	
+		<rect x="50.2" y="374.2" transform="matrix(0.7712 -0.6366 0.6366 0.7712 -234.7063 120.9694)" class="st21" width="1.4" height="25.6"/>
+</g>
+<g id="Dropout_selected" transform="translate(0,60)" inkscape:label="#rect830">
+	<rect id="rect996-4_3_" x="103" y="375.2" inkscape:label="#rect830" class="st18" width="90" height="25">
+	</rect>
+	
+		<rect x="38.5" y="386.3" transform="matrix(0.6352 -0.7723 0.7723 0.6352 -280.1983 180.7607)" class="st21" width="25.6" height="1.4"/>
+	
+		<rect x="50.2" y="374.2" transform="matrix(0.7712 -0.6366 0.6366 0.7712 -234.7063 120.9694)" class="st21" width="1.4" height="25.6"/>
+</g>
+</svg>
