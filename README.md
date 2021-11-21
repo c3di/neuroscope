@@ -84,6 +84,13 @@ Here's how to do it:
   * Prediction - By pressing this button, you process the images through the network. The Neuroscope doesn't automatically feed images to the network, so you don't lose results if you select another model.
   * Filter - postprocessing 
 Setting - it's for the current inspection method, or related to the algorithm.
+
+## Object Detection state
+
+Currently, there are three possible methods: CRP, E2X, and D-RISE.  
+[CRP](https://www.researchgate.net/publication/332344761_Contrastive_Relevance_Propagation_for_Interpreting_Predictions_by_a_Single-Shot_Object_Detector) was rejected because it has the same [convergence](https://arxiv.org/pdf/1912.09818.pdf) problems as its predecessor, LRP.  
+[E2X](https://arxiv.org/abs/1811.08011) [(code)](https://github.com/gudovskiy/e2x) covers only one-stage detectors, is hard to implement, and needs two different versions of a given network to function.  
+[D-RISE](https://cs-people.bu.edu/vpetsiuk/drise/#) covers both one- and two-stage detectors, needs one version of a network to function, but requires to be re-implemented from scratch because it doesn't have code so far.
     
 ## Cite
 ```
