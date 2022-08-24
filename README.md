@@ -1,4 +1,4 @@
-# Neuroscope:An Explainable AI Toolbox for Semantic Segmentation and Image Classification of Convolutional Neural Nets
+# Neuroscope: An Explainable AI Toolbox for Semantic Segmentation and Image Classification of Convolutional Neural Nets
 Trust in artificial intelligence (AI) predictions is a crucial point for a widespread acceptance of new technologies,
 especially in sensitive areas like autonomous driving. The need for tools explaining AI for deep learning of images is
 thus eminent. Our proposed toolbox Neuroscope addresses this demand by offering state-of-the-art visualization algorithms
@@ -68,7 +68,7 @@ To launch Neuroscope in PyCharm, run `main.py` with a configuration that was cre
 The common usage scenario consists of opening the model, adjusting the settings for the model, selecting images, applying analysis methods and saving the results.  
 Here's how to do it:
 
-* In in the upper-left side of a Neuroscope window, click on the leftmost icon to select a model.
+* In the upper-left side of a Neuroscope window, click on the leftmost icon to select a model.
 * After the model is selected, you will see its scheme on the left. Above it will be the icon with two cogs where you will be able to change the following settings for the model:
   * Contexts - This setting depends on the model. Choose what it was trained for.
   * preprocessing_presets - The preprocessing presets are located in `data\preprocessing_presets.json`. Mean and Standard Deviation fields are automatically filled from the preset.
