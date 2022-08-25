@@ -14,9 +14,14 @@ using the example of traffic scene analysis.
 1. Install the latest version of [conda](https://www.anaconda.com/).
 2. You can choose to install a CPU or GPU version. For GPU, you first need to install [cuda](https://developer.nvidia.com/cuda-toolkit) and [cudnn](https://developer.nvidia.com/cudnn).
 3. In our installation, we will create a conda environment from a predefined file.  
-If you're in the `neuroscope/` folder, the path for the CPU version would be `conda_environment/neuroscope_cpu.yml`.  
-The GPU version, `neuroscope_gpu.yml`, is located in the same directory.  
-To install an environment, open Anaconda Prompt and run `conda env create -f %path_to_the_yml_file%`.  
+  If you're in the `neuroscope/` folder, the path for the CPU version would be `conda_environment/neuroscope_cpu.yml`.  
+  The GPU version, `neuroscope_gpu.yml`, is located in the same directory.  
+
+  To install an environment, open Anaconda Prompt 
+
+  * Make sure the `channel_priority` of `conda` is `false` by running `conda config --set channel_priority false`
+  * Run `conda env create -f %path_to_the_yml_file%` to create an environment.
+
 4. To verify that the environment was installed correctly, run `conda env list`. You should see a new environment on the list.
 
 ### Setting up PyCharm configuration
@@ -83,7 +88,7 @@ Here's how to do it:
 * After adjusting model settings, open the images by pressing the second-to-left icon on top. If the window with the pictures didn't open, try `Window > New inspection window`. If the window still didn't open, there might be something wrong with the model settings. Some of the options are described below:
   * Prediction - By pressing this button, you process the images through the network. The Neuroscope doesn't automatically feed images to the network, so you don't lose results if you select another model.
   * Filter - postprocessing 
-Setting - it's for the current inspection method, or related to the algorithm.
+    Setting - it's for the current inspection method, or related to the algorithm.
     
 ## Cite
 ```
